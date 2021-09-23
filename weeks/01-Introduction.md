@@ -17,7 +17,6 @@ This week's assignments will guide you through the following topics:
 
 Please read the following:
 - [What is geometric deep learning?](https://medium.com/@flawnsontong1/what-is-geometric-deep-learning-b2adb662d91d)
-- [Introduction to graph theory and deep learning](https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b)
 - [Machine Learning on graphs](https://towardsdatascience.com/machine-learning-tasks-on-graphs-7bc8f175119a)
 
 ## Coding
