@@ -1,0 +1,7 @@
+safe: true
+title: "Capstone Domain: Graph Data Analysis"
+source: .
+destination: _site
+url: "https://gmishne.github.io"
+baseurl: "/capstone-graph-analysis"
+permalink: /:url/
