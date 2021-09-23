@@ -27,9 +27,9 @@ This week we will code simple deep networks from scratch so you understand the u
 https://enlight.nyc/projects/neural-network
 
 Developing and training deep networks is typically done using Python packages such as [pytorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) or [tensorflow/keras](https://www.tensorflow.org/tutorials).
-* This [colab](https://colab.research.google.com/drive/109gHWFUlUzuwhgXROpzIuVoSPZA_qeoy) notebook is a reimplementation of the above numpy code in pytorch:
+* This [colab](https://colab.research.google.com/drive/109gHWFUlUzuwhgXROpzIuVoSPZA_qeoy) notebook is a reimplementation of the above numpy code in pytorch.
 
-* The above tutorials implemented a fully-connected layer called [Linear](https://pytorch.org/docs/stable/generated/torch.nn.Linear.html) in pytorch. You can find many more types of layers [here](https://pytorch.org/docs/stable/nn.html). In this [tutorial](https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627), a network with 2 fully connected hidden layers is constructed to classify numerical digits. Please run the code yourself and report your accuracy.
+* The above tutorials implemented a fully-connected layer called [Linear](https://pytorch.org/docs/stable/generated/torch.nn.Linear.html) in pytorch. You can find many more types of layers [here](https://pytorch.org/docs/stable/nn.html). In this [tutorial](https://towardsdatascience.com/handwritten-digit-mnist-pytorch-977b5338e627), a network with 2 fully connected hidden layers is constructed using pytorch Linear layers to classify numerical digits. Please run the code yourself and report your accuracy.
 
 * Comment: To get a better understanding of backpropagation in deep networks this [tutorial](https://towardsdatascience.com/math-neural-network-from-scratch-in-python-d6da9f29ce65) and [video](https://www.youtube.com/watch?v=tIeHLnjs5U8&t=585s&ab_channel=3Blue1Brown) may be useful.
 
