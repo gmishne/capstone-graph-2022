@@ -1,10 +1,10 @@
 ---
 layout: week
-title: Week 09
+title: Week 04
 doodle: /doodle.png
 ---
 
-# Domain specific techniques II: Graph embeddings
+# Graph embeddings
 
 ## Topics
 
