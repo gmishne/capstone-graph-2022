@@ -18,7 +18,7 @@ A random walk is a very important concept in graph theory. In our capstone it pl
 Read:
 * Random walks on graphs: read first 4 pages of Dan Spielma's [notes](http://cs.yale.edu/homes/spielman/561/lect10-18.pdf)
 * [Slides](https://www.ic.unicamp.br/~wainer/cursos/1s2014/2007-10-01.sarkar.pdf) on random walks and their connection to PageRank
-* [Random walks and applications of random walks](https://www.cs.rpi.edu/~slotag/classes/FA16/slides/lec20-sample2.pdf) (clustering and classificaiton)
+* [Random walks and applications of random walks](https://www.cs.rpi.edu/~slotag/classes/FA16/slides/lec20-sample2.pdf) (clustering and classification)
 
 ## Coding
 
@@ -37,5 +37,5 @@ Answer the following questions
 1. How can random walks be used to cluster data?
 2. Plot 10 steps pf a random walk on the [Zachary Karate club graph](https://networkx.org/documentation/stable/reference/generated/networkx.generators.social.karate_club_graph.html?highlight=karate) starting from a random node. More details on this dataset [here](http://networkdata.ics.uci.edu/netdata/html/zacharyKarate.html).
 3. Plot several original and reconstructed digits using the autoencoder.
-4. Create two variations of the autoencoder by changing the number of hidden units in an encoder (and coressponding decoder layer) or adding / removing an encoder (and correspodnding decoder layer). How does this affect the performance of the network (MSE)?
+4. Create two variations of the autoencoder by changing the number of hidden units in an encoder (and corresponding decoder layer) or adding / removing an encoder (and corresponding decoder layer). How does this affect the performance of the network (MSE)?
 
