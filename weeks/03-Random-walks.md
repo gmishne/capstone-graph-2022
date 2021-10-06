@@ -10,6 +10,7 @@ doodle: /doodle.png
 
 This week's assignments will guide you through the following topics:
 * Random walks on graphs
+* Implementing an autoencoder
 
 ## Reading
 
@@ -27,12 +28,14 @@ Complete the following tasks:
 Implement a random walk of length *k* on a graph given the graph and an initial node as inputs.
 
 ### Deep networks
-Implement an autoencoder.
-
+An autoencoder is an unsupervised deep learning model that reconstructs the data from itself, and can be used to learn a low-dimensional embedding of data.
+Follow this [tutorial](https://medium.com/pytorch/implementing-an-autoencoder-in-pytorch-19baa22647d1) for implementing an autoencoder in pytorch.
 
 ## Weekly Questions
 
 Answer the following questions
-1.    How can random walks be used to cluster data?
+1. How can random walks be used to cluster data?
 2. Plot 10 steps pf a random walk on the [Zachary Karate club graph](https://networkx.org/documentation/stable/reference/generated/networkx.generators.social.karate_club_graph.html?highlight=karate) starting from a random node. More details on this dataset [here](http://networkdata.ics.uci.edu/netdata/html/zacharyKarate.html).
+3. Plot several original and reconstructed digits using the autoencoder.
+4. Create two variations of the autoencoder by changing the number of hidden units in an encoder (and coressponding decoder layer) or adding / removing an encoder (and correspodnding decoder layer). How does this affect the performance of the network (MSE)?
 
