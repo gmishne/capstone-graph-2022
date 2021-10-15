@@ -32,7 +32,7 @@ Please go through  [word2vec-Explained](https://arxiv.org/pdf/1402.3722.pdf) and
 [Word2Vec Explained](https://arxiv.org/pdf/1402.3722.pdf)\
 [DeepWalk](https://arxiv.org/pdf/1403.6652.pdf)\
 [node2vec](https://arxiv.org/pdf/1607.00653.pdf)\
-[node2vec tutorial](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
+[node2vec tutorial](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)\
 [node2vec source code](https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/nn/models/node2vec.html)
 
 ## Weekly Questions
