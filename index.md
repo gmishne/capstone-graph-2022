@@ -56,6 +56,7 @@ end of the quarter.
 |2|[Graph-based Data]({{ "/weeks/02-Data" | absolute_url }})|
 |3|[Random walks on graphs]({{ "/weeks/03-Random-walks" | absolute_url }})|
 |4|[Graph Embeddings]({{ "/weeks/04-Graph-Methods-II" | absolute_url }})|
+|5|[Graph Convolution Network]({{ "/weeks/05-GCN" | absolute_url }})|
 
 
 ---
