@@ -1,10 +1,10 @@
 ---
 layout: week
-title: Week 05
+title: Week 06
 doodle: /doodle.png
 ---
 
-# Intro to GCNs
+# Node Classification
 
 ## Topics
 
