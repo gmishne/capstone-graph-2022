@@ -57,7 +57,7 @@ end of the quarter.
 |3|[Random walks on graphs]({{ "/weeks/03-Random-walks" | absolute_url }})|
 |4|[Graph Embeddings]({{ "/weeks/04-Graph-Methods-II" | absolute_url }})|
 |5|[Graph Convolutional Network]({{ "/weeks/05-GCN" | absolute_url }})|
-
+|6|[Node Classification]({{ "/weeks/06-Node-Classification" | absolute_url }})|
 
 ---
 
