@@ -86,5 +86,7 @@ Answer the following questions:
 * Summarize the results of the Cora classification. Use this
   opportunity to practice presenting a data analysis.
 * Do the same for your other classification exercise.
-* Summarize how each ML approach handles transductive graph
-  learning. What computation has to occur at test time?
+* Summarize how each ML approach handles inductive graph
+  learning (adding new nodes and edges at test-time). What computation
+  has to occur at test-time?
+  
