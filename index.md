@@ -58,6 +58,7 @@ end of the quarter.
 |4|[Graph Embeddings]({{ "/weeks/04-Graph-Methods-II" | absolute_url }})|
 |5|[Graph Convolutional Network]({{ "/weeks/05-GCN" | absolute_url }})|
 |6|[Node Classification]({{ "/weeks/06-Node-Classification" | absolute_url }})|
+|7|[Link Prediction]({{ "/weeks/07-Link-Prediction" | absolute_url }})|
 
 ---
 
