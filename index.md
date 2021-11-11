@@ -59,6 +59,7 @@ end of the quarter.
 |5|[Graph Convolutional Network]({{ "/weeks/05-GCN" | absolute_url }})|
 |6|[Node Classification]({{ "/weeks/06-Node-Classification" | absolute_url }})|
 |7|[Link Prediction]({{ "/weeks/07-Link-Prediction" | absolute_url }})|
+|8|[Inductive Learning]({{ "/weeks/08-GraphSage" | absolute_url }})|
 
 ---
 
