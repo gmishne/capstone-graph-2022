@@ -60,6 +60,8 @@ end of the quarter.
 |6|[Node Classification]({{ "/weeks/06-Node-Classification" | absolute_url }})|
 |7|[Link Prediction]({{ "/weeks/07-Link-Prediction" | absolute_url }})|
 |8|[Inductive Learning]({{ "/weeks/08-GraphSage" | absolute_url }})|
+|9|[Recommender Systems]({{ "/weeks/09-recsys" | absolute_url }})|
+|10|[Subgraph Learning]({{ "/weeks/10-subgraphs" | absolute_url }})|
 
 ---
 
