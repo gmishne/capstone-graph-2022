@@ -7,7 +7,7 @@ permalink: /
 
 Data science capstone domain of inquiry (DSC 180AB A13)
 
-Developed by Gal Mishne
+Developed by Gal Mishne and Aaron Fraenkel
 
 ---
 * TOC
