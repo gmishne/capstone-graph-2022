@@ -3,5 +3,5 @@ title: "Capstone Domain: Graph Data Analysis"
 source: .
 destination: _site
 url: "https://gmishne.github.io"
-baseurl: "/capstone-graph-2021"
+baseurl: "/capstone-graph-2022"
 permalink: /:url/
