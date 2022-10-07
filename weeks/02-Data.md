@@ -34,7 +34,7 @@ Complete the following tasks:
 The Cora dataset consists of 2708 scientific publications classified into one of seven classes. The citation network consists of 5429 links. Each publication in the dataset is described by a 0/1-valued word vector indicating the absence/presence of the corresponding word from the dictionary. The dictionary consists of 1433 unique words. The README file in the dataset provides more details.
 [Download Link](https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz).
 * Download the Cora dataset. Read the readme file.
-* Construct a graph from the features (word_attributes within cora.content) using one of the methods you learned about in section 2.2 of the von Luxburg tutorial in week 1. You may use [sklearn.neighbors](https://scikit-learn.org/stable/modules/neighbors.html) in your implementation.
+* Construct a graph from the features (word_attributes within cora.content) using one of the methods you learned about in section 2.2 of the von Luxburg tutorial. You may use [sklearn.neighbors](https://scikit-learn.org/stable/modules/neighbors.html) in your implementation.
 * Construct an adjacency matrix from the citation information given in cora.cites. 
 * Compare the graph properties of the constructed graph to the given citation graph. Are the graphs similar?
 
